@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ShahilPatel-IITDh/ShahilPatel-IITDh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Projects:
   1. Peer-to-Peer file transfer: https://github.com/ShahilPatel-IITDh/Peer-to-Peer-File-Transfer
@@ -27,3 +25,6 @@ Skills and Expertise:
   h. BeautifulSoup
 
 Contact Information: shahilpatel809@gmail.com
+
+<!--
+**ShahilPatel-IITDh/ShahilPatel-IITDh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
