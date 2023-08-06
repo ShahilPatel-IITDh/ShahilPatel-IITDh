@@ -6,7 +6,8 @@ Projects:
   2. Disaster Management System: https://github.com/ShahilPatel-IITDh/Disaster-Management-System
   3. Simple Budget Tracker: https://github.com/ShahilPatel-IITDh/ELEC2020
   4. Social Networking Site: https://github.com/ShahilPatel-IITDh/TechSio
-  5. ECI-Webscrapping (Ongoing): https://github.com/ShahilPatel-IITDh/ECI-Webscrapping
+  5. ECI-Web scrapping (Ongoing): https://github.com/ShahilPatel-IITDh/ECI-Webscrapping
+  6. Junk-File-Organizer: https://github.com/ShahilPatel-IITDh/Junk-File-Organizer
  
 Academics:
   1. Operating Systems Lab: https://github.com/ShahilPatel-IITDh/Operating-Systems
