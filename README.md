@@ -9,7 +9,7 @@ My interests lie at the intersection of **low‑level systems**, **signal & imag
 
 ---
 
-## 🌓 GitHub Stats (Dark / Light Adaptive)
+## 🌓 GitHub Stats
 
 <p align="center">
   <picture>
